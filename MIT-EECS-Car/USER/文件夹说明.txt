@@ -1,0 +1,5 @@
+USER文件夹存放用户编写定义的文件
+Minibalance.c为主函数
+System分组是ALIENTEK提供的常用公用代码，包含延时函数，IO口位操作以及串口相关函数
+Hardware分组是ALIENTEK提供的外部硬件相关的驱动函数
+Balance分组存放小车控制、OLED显示和数据编码相关的函数
